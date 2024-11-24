@@ -1,5 +1,5 @@
 
-## Innovating E-waste Recycling with AI: Overview
+## Innovating E-waste Recycling with AI
 
 The project titled **"Innovating E-waste Recycling with AI: Advanced Sorting and Resource Recovery"** aims to enhance the recycling processes of electronic waste (e-waste) through the application of artificial intelligence (AI) and deep learning technologies. This initiative is spearheaded by students Ankit Singh and G. Bhuvan Indra under the guidance of Dr. Pattabiraman V., as part of their coursework at the Vellore Institute of Technology, Chennai.
 
